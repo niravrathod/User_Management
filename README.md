@@ -1,2 +1,2 @@
 # User_Management
-Ajx CRUD in Codeigniter
+Ajax CRUD in Codeigniter
